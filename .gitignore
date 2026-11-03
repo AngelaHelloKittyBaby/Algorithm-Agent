@@ -1,0 +1,8 @@
+# 本地密钥配置，只提交示例文件。
+.env
+.env.*
+!.env.example
+
+# 本地构建产物与缓存。
+*.exe
+.go-cache/
